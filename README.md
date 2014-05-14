@@ -1,4 +1,4 @@
-revolverjs-bonzo-plugin
+revolver-bonzo-plugin
 =======================
 
-A Bonzo plugin for Revolver.js
+A Bonzo plugin for Revolver
